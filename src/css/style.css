@@ -1,3 +1,7 @@
+body{
+    background-color: #FFFCF9
+}
+
 header{
     background: #EAE0FF;
     padding: 5px;
@@ -19,4 +23,20 @@ header{
     font-size: 32px;
     font-weight: bold; 
     vertical-align: middle;
+    color: #3B3840
+}
+
+nav{
+    background-color: #3B3840
+}
+
+nav ul{
+    display: inline-block;
+}
+
+nav li{
+    color: #FFFCF9;
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 18px;
 }
