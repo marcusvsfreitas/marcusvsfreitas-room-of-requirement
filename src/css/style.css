@@ -1,3 +1,14 @@
+@font-face{
+    font-family: MrPotter;
+    src: url("../fonts/DearMrPotter/DearMrPotter-Regular.otf");
+}
+
+@font-face{
+    font-family: Harry;
+    src: url("../fonts/harry_p/HARRYP__.TTF");
+}
+
+
 body{
     background-color: #FFFCF9
 }
@@ -24,10 +35,11 @@ header{
 
 .logo h1{
     display: inline-block;
-    font-size: 32px;
+    font-family: Harry;
+    font-size: 48px;
     font-weight: bold; 
     vertical-align: middle;
-    color: #3B3840
+    color: #000
 }
 
 nav{
@@ -82,5 +94,57 @@ nav li{
     padding-left: 40px;
     font-size: 20px;
 }
+
+.section-mapa-maroto{
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.section-mapa-maroto h1{
+    font-family: MrPotter;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 10px;
+    width: 100%;
+}
+
+.mapa-maroto{
+    margin-top: 10px
+}
+
+.mapa-maroto img{
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.mapa-maroto a{
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 5px solid black;
+    position: relative;
+    text-decoration: none;
+    font-family: MrPotter;
+    font-size: 90px;
+    color: #FFF;
+    font-weight: bold;
+}
+
+#mapamaroto-frontend{
+    top: -700px;
+    left: -200px;
+}
+
+#mapamaroto-backend{
+
+}
+
+#mapamaroto-devops{
+
+}
+
+
+
+
 
 
