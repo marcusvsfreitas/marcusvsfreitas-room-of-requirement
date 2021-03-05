@@ -46,8 +46,13 @@ nav li{
 }
 
 .section-fundamentos{
+    display: inline-block;
     padding: 10px;
     width: 100%;
+}
+
+.section-fundamentos-img{
+    display: inline-block;
 }
 
 .section-fundamentos img{
@@ -55,9 +60,10 @@ nav li{
 }
 
 .section-fundamentos-conteudo{
+    margin-left: 20px;
     display: inline-block;
     vertical-align: top;
-    padding-left: 25px;
+    width: 70%;
 }
 
 .section-fundamentos-conteudo h1{
