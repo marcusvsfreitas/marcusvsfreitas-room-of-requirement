@@ -57,6 +57,8 @@ nav li{
     font-size: 18px;
 }
 
+/*
+
 .section-fundamentos{
     display: inline-block;
     padding: 10px;
@@ -142,6 +144,67 @@ nav li{
 
 }
 
+*/
+.section-search {
+    text-align: center;
+}
+
+.section-search {
+    
+}
+
+.section-search-header{
+    margin: 20px;
+
+}
+
+.section-search-header img {
+    vertical-align: bottom;
+    width: 120px;
+}
+
+.section-search-header h1 {
+    font-family: Harry;
+    font-weight: bold;
+    font-size: 62px;
+}
+
+
+
+.card {
+    display: inline-block;
+    border: black solid 6px;
+    border-radius: 10px;
+    text-align: center;
+    height: 400px;
+    width: 260px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    margin: 30px auto;
+}
+
+.card a{
+    text-decoration: none;
+}
+
+.card h1 {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card p{
+    color: black;
+}
+
+.section-search-cards .card{
+    margin: 0px 30px;
+}
 
 
 
