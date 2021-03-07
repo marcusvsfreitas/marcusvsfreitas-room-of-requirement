@@ -123,6 +123,24 @@ nav a{
     margin: 0px 30px;
 }
 
+.section-search-topics{
+    text-align: left;
+}
+
+.section-search-topics ul{
+    padding: 0px 20px 10px 20px;
+}
+
+.section-search-topics li{
+    padding-left: 5px;
+}
+
+
+
+.section-search-topics a{
+    text-decoration: none;
+}
+
 footer{
     position: absolute;
     bottom: 0;
