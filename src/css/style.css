@@ -40,9 +40,9 @@ main{
 .logo h1{
     font-family: Harry;
     display: inline-block;
+    padding-top: 6px;
     font-size: 48px;
     font-weight: bold; 
-    vertical-align: middle;
     color: #000
 }
 
@@ -129,7 +129,12 @@ nav a{
 footer{
     background-color: #740001;
     padding: 20px 0;
-    height: 150px;
+    height: 102px;
+}
+
+#copyright {
+    font-size: 22px;
+    text-align: right;
 }
 
 
