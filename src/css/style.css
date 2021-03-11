@@ -147,11 +147,59 @@ nav a{
     padding-left: 5px;
 }
 
-
-
 .section-search-topics a{
     text-decoration: none;
 }
+
+.section-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.section-content h2{
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+.section-content p {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.section-example p {
+    font-size: 18px;
+}
+
+.section-example h3 {
+    font-size: 22px;
+    text-align: center;
+}
+
+.section-example-header {
+    margin: 10px 0;
+}
+
+.section-example-img{
+    display: inline-block;
+    width: calc(50% - 5px);
+}
+
+.section-example-example {
+    margin: 20px 0;
+}
+
+.section-example-img img{
+    width: 200px;
+}
+
+.tag-info {
+    color: grey;
+    font-size: 14px;
+}
+
+
+
 
 footer{
     position: relative;
