@@ -8,7 +8,7 @@
 
 ## Informações sobre mim
 - Meu nome é **Marcus Vinícius**; :wave:
-- Tenho **18 anos**; :boy:
+- Tenho **19 anos**; :boy:
 - Estou no **3º semestre** de uma graduação em **Sistemas de Informação**; :mortar_board:
 - Sou **estagiário de desenvolvimento** desde **2020**; :computer: :baby:
 - Meu objetivo é se tornar um desenvolvedor **Front-End** e futuramente um desenvolvedor **Full-Stack**. :man: :older_man: :computer: :space_invader:
